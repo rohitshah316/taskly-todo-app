@@ -1,9 +1,9 @@
-import React from 'react'
-import Navbar from './components/landing/Navbar';
-import { Hero } from './components/landing/Hero';
-import {Features} from './components/landing/Features';
-import { About } from './components/landing/About';
-import { Footer } from './components/landing/Footer';
+import { About } from "@/components/landing/About";
+import { Features } from "@/components/landing/Features";
+import { Footer } from "@/components/landing/Footer";
+import { Hero } from "@/components/landing/Hero";
+import Navbar from "@/components/landing/Navbar";
+
 
 const page = () => {
   return (
